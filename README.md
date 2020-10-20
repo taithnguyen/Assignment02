@@ -1,5 +1,7 @@
 ### DH150 Assignment 02 - Tai Nguyen
+
 ## Pilot Usability Test
+
 # Introduction
 The Tangerine mobile application is used as a self-care journaling app that helps users keep track of their moods, habits, and thoughts. While the app is mostly simple and straightforward, there were a few usability issues discovered from the heuristic analysis previously done. First, the app seems to be geared towards a younger generation as well as a less formal setting due to some of the vocabulary and emoji icons used. This leads to a mismatch between the app system and real world concepts. Second, there is a lack of direction on the app that could hinder users' effectiveness of self-journaling. This is an issue of visibility of system status. Third, there is extraneous and unclear information regarding some of the important statistics (ie: the graphs or previous moods journaled). This is an issue of aesthetic and minimalist design where not all important information is easily accessible and unimportant information hidden. Thus, I will be conducting this usability test in order to gain user feedback on these 3 potential user issues by completing 3 tasks related to these topics. The goal of this process is to improve the user experience of this app as well as information on how to best optimize self-care journaling apps. The questions and tasks of the following survey are used to capture the effectiveness, efficiency, and satisfaction of the user when using Tangerine. 
 
@@ -12,8 +14,12 @@ This usability test is intended as a pilot test.
 https://forms.gle/wE6P5W5ydCPDVnAw6
 
 # UT Video
+Laptop Screen Recording + Face Cam
+Note: the bandicam free recording stopped at 10 minutes unexpectedly but the full screen recording is available.
+https://drive.google.com/file/d/1Gga3pcyK8aYNLfpismjgYhUerx5LJ8pI/view?usp=sharing
 
-
+iPhone Screen Recording
+https://drive.google.com/file/d/1NoIpq8ac4jLri53_XezsMbNH3IWH-gnl/view?usp=sharing
 
 # Reflection
 This pilot usability test taught me a lot about both being a moderator for usability tests as well as preparing for questions/issues that may come up. 
